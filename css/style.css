@@ -1,11 +1,9 @@
 nav{
     background-color: rgba(245, 234, 186, 0.788);
-    border-radius: 25px;
-    display: flex;
+    border-radius: 25px;   
     padding: 0.5rem 3rem;
-    display: flex;
-    align-items: center;   
-    gap: 20px;
+    display: flex;   
+    justify-content: space-between;
     
 }
         
